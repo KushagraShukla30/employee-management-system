@@ -38,12 +38,7 @@ class AuthenticatedSessionController extends Controller
       if ($user->role->slug === 'moderator') {
         return redirect()->intended(RouteServiceProvider::MODERATOR);
       }
-      if ($user->role->slug === 'hr-manager') {
-        return redirect()->intended(RouteServiceProvider::HR);
-      }
-      if ($user->role->slug === 'payroll-manager') {
-        return redirect()->intended(RouteServiceProvider::PAYROLL);
-      }
+      
 
         return redirect()->intended(RouteServiceProvider::HOME);
     }

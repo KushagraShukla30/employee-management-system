@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 The Employee Management System is a comprehensive solution designed to streamline and enhance human resource operations within organizations. This system offers a user-friendly interface that facilitates efficient management of employee profiles, tracking of leave and attendance, task assignment, and performance evaluations. By centralizing these essential HR functions, the system empowers administrators to optimize workforce management, boost productivity, and ensure accurate data-driven decision-making.
@@ -217,3 +218,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## License
 This Employee Management System is distributed under the `GNU General Public License version 3.0 (GPL-3.0)`. You can find the full text of the license in the `LICENSE` file.
+=======
+# SmartIndiaHackathon Team #1 Coal Lanterns(WIP)
+Hello fellow team mates this is the repository created for all the contributions we need to make in the Smart India Hackathon for our Project. This repo will provide a uniform front for creating a track based project. hoping to succeed I wish you luck!
+>>>>>>> dfd925aa26b239e6f28f04d9be9b640aa2cd79f1
